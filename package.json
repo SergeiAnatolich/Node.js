@@ -1,0 +1,26 @@
+{
+  "name": "acquaintance_with_node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiAnatolich/Node.js.git"
+  },
+  "keywords": [],
+  "author": "scherbakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeiAnatolich/Node.js/issues"
+  },
+  "homepage": "https://github.com/SergeiAnatolich/Node.js#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "prettier": "^2.7.1"
+  }
+}
